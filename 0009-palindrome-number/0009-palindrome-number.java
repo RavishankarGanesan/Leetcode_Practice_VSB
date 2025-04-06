@@ -11,6 +11,12 @@ class Solution {
             temp = temp / 10;
 
         }
-    return rev  == x;
+    //return rev  == x;
+    if(rev ==x){
+        return true;
+    }
+    else{
+        return false;
+    }
     }
 }
