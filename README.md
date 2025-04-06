@@ -22,4 +22,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RavishankarGanesan/Leetcode_Practice_VSB/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/RavishankarGanesan/Leetcode_Practice_VSB/tree/master/0792-binary-search) |
+## Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/RavishankarGanesan/Leetcode_Practice_VSB/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
